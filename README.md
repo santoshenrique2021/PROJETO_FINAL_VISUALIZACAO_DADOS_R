@@ -7,4 +7,4 @@ O gráfico desenvolvido relaciona a taxa de inadimplência (gráfico de linha) c
 
 * **Percentual de FPD** representa a taxa de inadimplência.
 * **Faixa de escore** representa o decil. No gráfico é visto F1, F2, ...
-  * F1 é o primeiro decil, F2 é o segundo decil e assim sucessivamente.   
+* F1 é o primeiro decil, F2 é o segundo decil e assim sucessivamente.   
